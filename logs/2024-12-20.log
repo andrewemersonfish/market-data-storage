@@ -1,0 +1,234 @@
+2024-12-20 10:03:30,904 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:04:05,987 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:04:07,798 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:04:20,688 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:04:20,733 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:04:22,613 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:04:22,657 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:23,336 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:23,381 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:26,077 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:26,123 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:28,065 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:28,109 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:31,857 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:31,902 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:36,865 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:36,912 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:46,392 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:46,437 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:51,877 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:51,945 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:05:54,252 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:05:54,296 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:02,361 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:02,405 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:09,267 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:09,313 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:12,778 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:12,824 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:29,393 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:29,439 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:30,515 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:30,560 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:35,337 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:35,384 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:37,419 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:37,463 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:39,525 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:39,573 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:42,708 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:42,754 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:46,416 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:46,462 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:48,538 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:48,583 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:52,050 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:52,095 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:56,528 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:56,573 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:06:59,319 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:06:59,363 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:14,823 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:14,874 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:16,474 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:16,523 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:32,915 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:32,961 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:35,314 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:35,360 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:38,433 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:38,478 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:42,109 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:42,153 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:44,102 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:44,148 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:48,135 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:48,185 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:51,265 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:51,310 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:55,120 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:55,166 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:09:58,462 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:09:58,510 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:01,898 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:01,942 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:05,033 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:05,078 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:12,044 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:12,089 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:13,182 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:13,227 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:19,296 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:19,342 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:22,651 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:22,696 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:26,346 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:26,390 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:37,624 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:37,669 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:40,011 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:40,056 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:41,966 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:42,012 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:10:43,472 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:10:43,517 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:21:38,281 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:21:38,330 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:21:40,422 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:21:40,468 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:21:46,469 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:21:46,514 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:21:50,133 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:21:50,179 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:22:09,430 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:22:09,474 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:23:29,935 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:23:29,981 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:26:06,584 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:26:06,632 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:27:42,489 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/03
+2024-12-20 10:30:41,260 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:30:41,310 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:30:47,020 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:30:47,064 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:30:58,659 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:30:58,704 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:31:00,396 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:31:00,440 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:31:12,279 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/03
+2024-12-20 10:31:12,396 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/03/2024-03-01.csv.gz
+2024-12-20 10:31:12,396 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/03/2024-03-01.csv.gz
+2024-12-20 10:31:12,730 - app.services.polygon_service - ERROR - Error downloading file us_options_opra/trades_v1/2024/03/2024-03-01.csv.gz: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/03/2024-03-01.csv.gz.D98E8401'
+2024-12-20 10:31:12,730 - app.main - ERROR - Transfer failed: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/03/2024-03-01.csv.gz.D98E8401'
+2024-12-20 10:31:12,733 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/03/2024-03-04.csv.gz
+2024-12-20 10:31:12,733 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/03/2024-03-04.csv.gz
+2024-12-20 10:31:14,152 - app.services.polygon_service - ERROR - Error downloading file us_options_opra/trades_v1/2024/03/2024-03-04.csv.gz: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/03/2024-03-04.csv.gz.c5d5Dd1f'
+2024-12-20 10:31:14,152 - app.main - ERROR - Transfer failed: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/03/2024-03-04.csv.gz.c5d5Dd1f'
+2024-12-20 10:31:14,154 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/03/2024-03-05.csv.gz
+2024-12-20 10:31:14,154 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/03/2024-03-05.csv.gz
+2024-12-20 10:31:14,629 - app.services.polygon_service - ERROR - Error downloading file us_options_opra/trades_v1/2024/03/2024-03-05.csv.gz: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/03/2024-03-05.csv.gz.Eb258949'
+2024-12-20 10:31:14,629 - app.main - ERROR - Transfer failed: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/03/2024-03-05.csv.gz.Eb258949'
+2024-12-20 10:33:41,002 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:33:41,045 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:33:42,827 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:33:42,873 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:34:26,819 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/12/20
+2024-12-20 10:34:26,919 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz
+2024-12-20 10:34:26,919 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz
+2024-12-20 10:34:27,153 - app.services.polygon_service - ERROR - Error downloading file us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz.9A716Fc7'
+2024-12-20 10:34:27,154 - app.main - ERROR - Transfer failed: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz.9A716Fc7'
+2024-12-20 10:34:28,157 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz
+2024-12-20 10:34:28,157 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz
+2024-12-20 10:34:28,652 - app.services.polygon_service - ERROR - Error downloading file us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz.bd87AEFB'
+2024-12-20 10:34:28,653 - app.main - ERROR - Transfer failed: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz.bd87AEFB'
+2024-12-20 10:34:29,661 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz
+2024-12-20 10:34:29,661 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz
+2024-12-20 10:34:29,975 - app.services.polygon_service - ERROR - Error downloading file us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz.7b6E917D'
+2024-12-20 10:34:29,975 - app.main - ERROR - Transfer failed: [Errno 2] No such file or directory: 'us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz.7b6E917D'
+2024-12-20 10:35:44,329 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:35:44,375 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:35:51,349 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:35:51,394 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:35:57,729 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:35:57,775 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:36:11,839 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/12/20
+2024-12-20 10:36:11,986 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz
+2024-12-20 10:36:11,986 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz to temp/2024-12-02.csv.gz
+2024-12-20 10:36:14,176 - app.services.backblaze_service - INFO - Uploading temp/2024-12-02.csv.gz to us_options_opra/trades_v1/2024/12/2024-12-02.csv.gz
+2024-12-20 10:37:01,239 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz
+2024-12-20 10:37:01,239 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz to temp/2024-12-03.csv.gz
+2024-12-20 10:37:03,352 - app.services.backblaze_service - INFO - Uploading temp/2024-12-03.csv.gz to us_options_opra/trades_v1/2024/12/2024-12-03.csv.gz
+2024-12-20 10:37:48,083 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz
+2024-12-20 10:37:48,083 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz to temp/2024-12-04.csv.gz
+2024-12-20 10:37:50,674 - app.services.backblaze_service - INFO - Uploading temp/2024-12-04.csv.gz to us_options_opra/trades_v1/2024/12/2024-12-04.csv.gz
+2024-12-20 10:43:53,210 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:43:53,257 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:44:05,459 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:44:05,503 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:45:19,129 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:45:19,176 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:45:29,513 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:45:29,558 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:45:31,626 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:45:31,670 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:45:37,949 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:45:37,995 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:45:47,426 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-01
+2024-12-20 10:45:47,600 - app.services.polygon_service - ERROR - Error listing files: 'Contents'
+2024-12-20 10:45:47,600 - app.main - ERROR - Failed to list Polygon files: 'Contents'
+2024-12-20 10:45:47,602 - app.main - INFO - Starting transfer for detail
+2024-12-20 10:45:47,602 - app.services.polygon_service - INFO - Downloading detail to temp/detail
+2024-12-20 10:45:48,056 - app.services.polygon_service - ERROR - Error downloading file detail: An error occurred (404) when calling the HeadObject operation: Not Found
+2024-12-20 10:45:48,056 - app.main - ERROR - Transfer failed: An error occurred (404) when calling the HeadObject operation: Not Found
+2024-12-20 10:45:48,060 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-02
+2024-12-20 10:45:48,087 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/01/2024-01-02.csv.gz
+2024-12-20 10:45:48,087 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/01/2024-01-02.csv.gz to temp/2024-01-02.csv.gz
+2024-12-20 10:45:51,611 - app.services.backblaze_service - INFO - Uploading temp/2024-01-02.csv.gz to us_options_opra/trades_v1/2024/01/2024-01-02.csv.gz
+2024-12-20 10:46:47,333 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-03
+2024-12-20 10:46:47,353 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/01/2024-01-03.csv.gz
+2024-12-20 10:46:47,353 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/01/2024-01-03.csv.gz to temp/2024-01-03.csv.gz
+2024-12-20 10:46:53,507 - app.services.backblaze_service - INFO - Uploading temp/2024-01-03.csv.gz to us_options_opra/trades_v1/2024/01/2024-01-03.csv.gz
+2024-12-20 10:47:19,194 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-04
+2024-12-20 10:47:19,501 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/01/2024-01-04.csv.gz
+2024-12-20 10:47:19,501 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/01/2024-01-04.csv.gz to temp/2024-01-04.csv.gz
+2024-12-20 10:47:23,049 - app.services.backblaze_service - INFO - Uploading temp/2024-01-04.csv.gz to us_options_opra/trades_v1/2024/01/2024-01-04.csv.gz
+2024-12-20 10:47:47,293 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-05
+2024-12-20 10:47:47,315 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/01/2024-01-05.csv.gz
+2024-12-20 10:47:47,315 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/01/2024-01-05.csv.gz to temp/2024-01-05.csv.gz
+2024-12-20 10:47:53,749 - app.services.backblaze_service - INFO - Uploading temp/2024-01-05.csv.gz to us_options_opra/trades_v1/2024/01/2024-01-05.csv.gz
+2024-12-20 10:50:20,847 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:50:20,897 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:50:22,664 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:50:22,710 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:51:56,235 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-01
+2024-12-20 10:51:56,671 - app.services.polygon_service - ERROR - Error listing files: 'Contents'
+2024-12-20 10:51:56,671 - app.main - ERROR - Failed to list Polygon files: 'Contents'
+2024-12-20 10:51:56,674 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-02
+2024-12-20 10:51:56,757 - app.services.backblaze_service - INFO - File exists: us_options_opra/trades_v1/2024/01/2024-01-02.csv.gz
+2024-12-20 10:51:56,759 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-03
+2024-12-20 10:51:56,845 - app.services.backblaze_service - INFO - File exists: us_options_opra/trades_v1/2024/01/2024-01-03.csv.gz
+2024-12-20 10:51:56,847 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-04
+2024-12-20 10:51:56,923 - app.services.backblaze_service - INFO - File exists: us_options_opra/trades_v1/2024/01/2024-01-04.csv.gz
+2024-12-20 10:51:56,925 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-05
+2024-12-20 10:51:56,957 - app.services.backblaze_service - INFO - File exists: us_options_opra/trades_v1/2024/01/2024-01-05.csv.gz
+2024-12-20 10:52:14,364 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:52:14,418 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:52:17,134 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-20 10:52:17,180 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-20 10:52:26,116 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-06
+2024-12-20 10:52:26,172 - app.services.polygon_service - ERROR - Error listing files: 'Contents'
+2024-12-20 10:52:26,172 - app.main - ERROR - Failed to list Polygon files: 'Contents'
+2024-12-20 10:52:26,174 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-07
+2024-12-20 10:52:26,192 - app.services.polygon_service - ERROR - Error listing files: 'Contents'
+2024-12-20 10:52:26,192 - app.main - ERROR - Failed to list Polygon files: 'Contents'
+2024-12-20 10:52:26,194 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-08
+2024-12-20 10:52:26,313 - app.services.backblaze_service - INFO - File does not exist: us_options_opra/trades_v1/2024/01/2024-01-08.csv.gz
+2024-12-20 10:52:26,314 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/01/2024-01-08.csv.gz
+2024-12-20 10:52:26,314 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/01/2024-01-08.csv.gz to temp/2024-01-08.csv.gz
+2024-12-20 10:52:31,265 - app.services.backblaze_service - INFO - Uploading temp/2024-01-08.csv.gz to us_options_opra/trades_v1/2024/01/2024-01-08.csv.gz
+2024-12-20 10:53:10,811 - app.services.polygon_service - INFO - Listing files with prefix: us_options_opra/trades_v1/2024/01/2024-01-09
+2024-12-20 10:53:10,925 - app.services.backblaze_service - INFO - File does not exist: us_options_opra/trades_v1/2024/01/2024-01-09.csv.gz
+2024-12-20 10:53:10,926 - app.main - INFO - Starting transfer for us_options_opra/trades_v1/2024/01/2024-01-09.csv.gz
+2024-12-20 10:53:10,926 - app.services.polygon_service - INFO - Downloading us_options_opra/trades_v1/2024/01/2024-01-09.csv.gz to temp/2024-01-09.csv.gz
+2024-12-20 10:53:12,312 - app.services.backblaze_service - INFO - Uploading temp/2024-01-09.csv.gz to us_options_opra/trades_v1/2024/01/2024-01-09.csv.gz
