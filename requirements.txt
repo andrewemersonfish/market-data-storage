@@ -5,3 +5,9 @@ boto3
 botocore
 b2sdk
 httpx
+sqlalchemy
+alembic
+psycopg2-binary
+pandas
+numpy
+scikit-learn

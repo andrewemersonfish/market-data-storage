@@ -3,13 +3,13 @@ import httpx
 from datetime import datetime, timedelta
 
 # Configuration
-START_DATE = "2024-12-18"  # YYYY-MM-DD
-END_DATE = "2024-12-25"    # YYYY-MM-DD
-BASE_PREFIX = "us_options_opra/trades_v1"
+START_DATE = "2024-12-01"  # YYYY-MM-DD
+END_DATE = "2024-12-24"    # YYYY-MM-DD
+BASE_PREFIX = "us_options_opra/minute_aggs_v1"
 API_URL = "http://localhost:8000"
 
 async def get_files_for_date(client: httpx.AsyncClient, date_str: str) -> list[str]:
-    """Get all trade files for a specific date"""
+    """Get all minute aggregate files for a specific date"""
     prefix = f"{BASE_PREFIX}/{date_str[:4]}/{date_str[5:7]}/{date_str}"
     try:
         response = await client.get(

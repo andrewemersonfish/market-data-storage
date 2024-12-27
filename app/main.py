@@ -9,14 +9,10 @@ from app.services.polygon_service import PolygonService
 from app.services.backblaze_service import BackblazeService
 from app.services.utils import setup_logger
 
+
 logger = setup_logger(__name__)
 load_dotenv()
-
-app = FastAPI(
-    title="Polygon Data Collector",
-    description="API for transferring data between Polygon.io and Backblaze B2",
-    version="1.0.0"
-)
+app = FastAPI()
 
 # Initialize services
 polygon = PolygonService(
@@ -28,6 +24,7 @@ b2 = BackblazeService(
     key_id=os.getenv('B2_KEY_ID'),
     application_key=os.getenv('B2_APPLICATION_KEY')
 )
+
 
 # Add CORS middleware
 app.add_middleware(
@@ -66,38 +63,6 @@ async def download_polygon_file(file_path: str) -> Dict[str, str]:
         return {"file": polygon.download_file(file_path)}
     except Exception as e:
         logger.error(f"Failed to download Polygon file: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-@app.get("/backblaze/check")
-async def check_file_exists(file_path: str) -> Dict[str, bool]:
-    """
-    Check if a file exists in Backblaze B2
-    Args:
-        file_path: Full path of file (e.g., 'us_options_opra/trades_v1/2024/03/2024-03-19.csv.gz')
-    Returns:
-        Dict[str, bool]: Dictionary indicating if file exists
-    """
-    try:
-        exists = b2.file_exists(file_path)
-        return {"exists": exists}
-    except Exception as e:
-        logger.error(f"Failed to check B2 file existence: {str(e)}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-@app.post("/backblaze/upload")
-async def upload_to_backblaze(file_path: str) -> Dict[str, str]:
-    """
-    Upload a file to Backblaze B2
-    Args:
-        file_path: Full path of file (e.g., 'us_options_opra/trades_v1/2024/03/2024-03-19.csv.gz')
-    Returns:
-        Dict[str, str]: Dictionary containing the uploaded file path
-    """
-    try:
-        uploaded_path = b2.upload_file(file_path)
-        return {"uploaded_to": uploaded_path}
-    except Exception as e:
-        logger.error(f"Failed to upload to B2: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/transfer")
@@ -140,6 +105,68 @@ async def transfer_file(file_path: str = Query(..., description="Full path of fi
             logger.debug(f"Cleaned up temp file after error: {temp_path}")
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/backblaze/check")
+async def check_file_exists(file_path: str) -> Dict[str, bool]:
+    """
+    Check if a file exists in Backblaze B2
+    Args:
+        file_path: Full path of file (e.g., 'us_options_opra/trades_v1/2024/03/2024-03-19.csv.gz')
+    Returns:
+        Dict[str, bool]: Dictionary indicating if file exists
+    """
+    try:
+        exists = b2.file_exists(file_path)
+        return {"exists": exists}
+    except Exception as e:
+        logger.error(f"Failed to check B2 file existence: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/backblaze/upload")
+async def upload_to_backblaze(file_path: str) -> Dict[str, str]:
+    """
+    Upload a file to Backblaze B2
+    Args:
+        file_path: Full path of file (e.g., 'us_options_opra/trades_v1/2024/03/2024-03-19.csv.gz')
+    Returns:
+        Dict[str, str]: Dictionary containing the uploaded file path
+    """
+    try:
+        uploaded_path = b2.upload_file(file_path)
+        return {"uploaded_to": uploaded_path}
+    except Exception as e:
+        logger.error(f"Failed to upload to B2: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/backblaze/download")
+async def download_from_backblaze(
+    file_path: str,
+    destination_dir: str = Query("data/downloads", description="Directory where file will be saved"),
+) -> Dict[str, str]:
+    """
+    Download a file from Backblaze B2
+    
+    Args:
+        file_path (str): Full path of file (e.g., 'us_options_opra/trades_v1/2024/03/2024-03-19.csv.gz')
+        destination_dir (str): Directory where the file will be downloaded (default is 'data/downloads')
+    
+    Returns:
+        Dict[str, str]: Dictionary containing the downloaded file path
+    """
+    os.makedirs(destination_dir, exist_ok=True)
+    download_path = os.path.join(destination_dir, os.path.basename(file_path))
+    
+    try:
+        downloaded_path = b2.download_file(file_path, download_path)
+        return {"file": downloaded_path}
+    except Exception as e:
+        logger.error(f"Failed to download from B2: {str(e)}")
+        if os.path.exists(download_path):
+            os.remove(download_path)
+            logger.debug(f"Cleaned up file after error: {download_path}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+    

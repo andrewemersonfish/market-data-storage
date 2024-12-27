@@ -6,3 +6,10 @@
 
 # Ignore cursor configuration files
 .cursorignore
+
+# Ignore data directory
+data/
+
+temp/
+
+

@@ -1,0 +1,9 @@
+2024-12-22 07:23:55,672 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-22 07:23:55,727 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-22 07:24:36,783 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-22 07:24:36,834 - app.services.backblaze_service - INFO - Initializing BackblazeService
+2024-12-22 07:24:42,721 - app.services.backblaze_service - INFO - Downloading us_options_opra/trades_v1/2024/12/2024-12-16.csv.gz to data/downloads/trades/2024-12-16.csv.gz
+2024-12-22 07:24:43,744 - app.services.backblaze_service - INFO - Downloading us_options_opra/minute_aggs_v1/2024/12/2024-12-16.csv.gz to data/downloads/minute_aggs/2024-12-16.csv.gz
+2024-12-22 07:24:44,189 - app.services.backblaze_service - INFO - Downloading us_options_opra/day_aggs_v1/2024/12/2024-12-16.csv.gz to data/downloads/day_aggs/2024-12-16.csv.gz
+2024-12-22 07:25:49,563 - app.services.polygon_service - INFO - Initializing PolygonService
+2024-12-22 07:25:49,616 - app.services.backblaze_service - INFO - Initializing BackblazeService

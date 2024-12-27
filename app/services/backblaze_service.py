@@ -65,3 +65,22 @@ class BackblazeService:
         except Exception as e:
             logger.error(f"Error uploading file: {str(e)}")
             raise
+            
+    def download_file(self, source_path: str, local_path: str) -> str:
+        """
+        Download a file from B2 bucket
+        Args:
+            source_path: Path to file in B2 bucket
+            local_path: Local path where file should be downloaded
+        Returns:
+            str: Path where file was downloaded
+        """
+        logger.info(f"Downloading {source_path} to {local_path}")
+        try:
+            downloaded_file = self.bucket.download_file_by_name(source_path)
+            downloaded_file.save_to(local_path)
+            logger.debug(f"Successfully downloaded to {local_path}")
+            return local_path
+        except Exception as e:
+            logger.error(f"Error downloading file: {str(e)}")
+            raise
